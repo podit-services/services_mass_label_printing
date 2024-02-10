@@ -1,4 +1,4 @@
-# This module provides functionality of mass label printing
+# This module provides functionality of mass label printing [Odoo 16]
 This module provides functionality of mass label printing
 
 Install these libs:
