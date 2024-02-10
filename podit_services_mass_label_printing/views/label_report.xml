@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- QWEB Report -->
+    <record id="dynamic_label" model="ir.actions.report">
+        <field name="name">Label</field>
+        <field name="model">label.config</field>
+        <field name="report_type">qweb-pdf</field>
+        <field name="report_name">podit_services_mass_label_printing.report_label_new</field>
+        <field name="binding_type">report</field>
+    </record>
+</odoo>
